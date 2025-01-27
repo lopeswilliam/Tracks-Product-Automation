@@ -7,4 +7,4 @@ Com EndPoints especificos para garantir o processo do seu negocio. podendo poten
 Extraindo informações especificas do seu negocio.
 
 
-1 - processo que envolve a coleta e organização de dados relevantes a partir de diferentes fontes, como documentos, textos.
+1 - processo que envolve a coleta e organização de dados relevantes a partir de diferentes fontes, textos.
