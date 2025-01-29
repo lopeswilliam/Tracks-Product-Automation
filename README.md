@@ -10,3 +10,5 @@ Extração de informações especificas do seu negocio.
 
 1 - Processo que envolve a coleta e organização de dados relevantes a partir de diferentes fontes, textos. 
 Para mostrar en um nivel detalhado o consumo de suas informações.
+
+https://www.linkedin.com/company/tracks-i-a-innovation/?viewAsMember=true
